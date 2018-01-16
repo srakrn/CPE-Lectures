@@ -1,3 +1,11 @@
-# Lectures at Computer Engineering Kasetsart
+# เลกเชอร์ วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์
 
-This is a collection of lecture notes at Department of Computer Engineering, Kasetsart University.
+เป็นเลกเชอร์ในฟอร์แมท Markdown พิเศษ ซึ่งจดโดยนิสิตคณะวิศวกรรมคอมพิวเตอร์ แลวิศวกรรมซอฟต์แวร์และความรู้ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน
+
+## การอ่าน
+
+เราแนะนำให้คุณอ่านเลกเชอร์นี้ที่ [https://srakrn.me/lectures](MaiLec Lecture Viewer) เพื่อให้การแสดงผลสมการในรูปแบบ $\LaTeX$ เป็นไปได้อย่างถูกต้อง
+
+## การร่วมเขียน
+
+เรายินดีรับเลกเชอร์ที่มีการร่วมเขียนระหว่านิสิต โปรดกรุณาส่ง Pull request มาที่ [GitHub repository ของ CPE-Lectures](github.com/srakrn/cpe-Lectures) 
