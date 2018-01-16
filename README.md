@@ -4,19 +4,12 @@
 
 ## การอ่าน
 
-<<<<<<< HEAD
 เราแนะนำให้คุณอ่านเลกเชอร์นี้ที่ [MaiLec Lecture Viewer](https://srakrn.me/lectures) เพื่อให้การแสดงผลสมการในรูปแบบ $LaTeX$ (เช่น $\int{ u dv} = uv - \int {v du}$) เป็นไปได้อย่างถูกต้อง
-=======
-เราแนะนำให้คุณอ่านเลกเชอร์นี้ที่ [https://srakrn.me/lectures](MaiLec Lecture Viewer) เพื่อให้การแสดงผลสมการในรูปแบบ $\LaTeX$ เป็นไปได้อย่างถูกต้อง
->>>>>>> 41f065ad4900cca64110ee3979b19a9b0a6c6239
 
 ## การร่วมเขียน
 
 เรายินดีรับเลกเชอร์ที่มีการร่วมเขียนระหว่านิสิต โปรดกรุณาส่ง Pull request มาที่ [GitHub repository ของ CPE-Lectures](github.com/srakrn/cpe-Lectures) 
-<<<<<<< HEAD
 
 เราแนะนำให้คุณจดเลกเชอร์ในรูปแบบ Markdown มาตรฐาน และแทรกสมการในรูปแบบ LaTeX ด้วย `$$` สองตัวตามมาตรฐานของ LaTeX inline equation
 
 โปรดกรุณาตรวจสอบว่าสมการสามารถเรนเดอร์ด้วย [MathJax](www.mathjax.org) ได้ถูกต้อง
-=======
->>>>>>> 41f065ad4900cca64110ee3979b19a9b0a6c6239
