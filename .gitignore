@@ -1,4 +1,5 @@
 lister.php
 viewer.php
 markdown.php
+Parsedown.php
 .htaccess
