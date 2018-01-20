@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 399.99999 300.00001"
+   height="300"
+   width="400">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-752.36217)"
+     id="layer1">
+    <rect
+       ry="29.285715"
+       y="955.2193"
+       x="31.428577"
+       height="58.57143"
+       width="341.42856"
+       id="rect4177-4"
+       style="opacity:1;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="29.285715"
+       y="788.07642"
+       x="29.285713"
+       height="58.57143"
+       width="341.42856"
+       id="rect4177"
+       style="opacity:1;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="34.213005"
+       transform="matrix(0.50359675,-0.86393884,0.86393884,0.50359675,0,0)"
+       y="431.86459"
+       x="-707.6554"
+       height="391.47189"
+       width="60.508495"
+       id="rect4156"
+       style="opacity:1;fill:#b2dfdb;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3340"
+       y="828.07648"
+       x="44.999996"
+       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+         y="828.07648"
+         x="44.999996"
+         id="tspan3342">m                     w</tspan><tspan
+         id="tspan3344"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+         y="884.32648"
+         x="44.999996" /><tspan
+         id="tspan3346"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+         y="940.57648"
+         x="44.999996" /><tspan
+         id="tspan3348"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+         y="996.82648"
+         x="44.999996">m'                    w'</tspan></text>
+    <text
+       id="text4158"
+       y="908.62518"
+       x="200.96576"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#009688;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#009688"
+         y="908.62518"
+         x="200.96576"
+         id="tspan4160">A more stable pair</tspan></text>
+    <text
+       id="text4158-0"
+       y="826.1936"
+       x="197.33748"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#607d8b"
+         y="826.1936"
+         x="197.33748"
+         id="tspan4160-5">Unstable pair</tspan></text>
+    <text
+       id="text4158-0-8"
+       y="996.1936"
+       x="201.23701"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#607d8b"
+         y="996.1936"
+         x="201.23701"
+         id="tspan4160-5-0">Unstable pair</tspan></text>
+  </g>
+</svg>
