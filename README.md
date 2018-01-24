@@ -1,14 +1,11 @@
-# เลกเชอร์ วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์
+# MaiLec - A Simple Markdown Viewer
 
-เป็นเลกเชอร์ในฟอร์แมท Markdown พิเศษ ซึ่งจดโดยนิสิตคณะวิศวกรรมคอมพิวเตอร์ แลวิศวกรรมซอฟต์แวร์และความรู้ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางเขน
+MaiLec (My auto infamous Lecture viewer -- A backronym from "Not Small" in Thai language) is a tiny Markdown viewer, based on PHP.
 
-## การอ่าน
+As I write my lecture notes in Markdown, I found writing a small viewer for PHP makes sharing them to my friends much easier. 
 
-เราแนะนำให้คุณอ่านเลกเชอร์นี้ที่ [MaiLec Lecture Viewer](https://srakrn.me/lectures) เพื่อให้การแสดงผลสมการในรูปแบบ $LaTeX$ (เช่น $\int{ u dv} = uv - \int {v du}$) เป็นไปได้อย่างถูกต้อง
+## Usage
 
-## การร่วมเขียน
+You should have your Apache properly set up, along with `mod_rewrite` enabled and `AllowOverride All` for `.htaccess`..
 
-เรายินดีรับเลกเชอร์ที่มีการร่วมเขียนระหว่านิสิต โปรดกรุณาส่ง Pull request มาที่ [GitHub repository ของ CPE-Lectures](github.com/srakrn/cpe-Lectures) 
-
-เราแนะนำให้คุณจดเลกเชอร์ในรูปแบบ Markdown มาตรฐาน และแทรกสมการในรูปแบบ LaTeX ด้วย `\\(` และ `\\)` ทั้งนี้ โปรดกรุณาตรวจสอบว่าสมการสามารถเรนเดอร์ด้วย [MathJax](www.mathjax.org) ได้ถูกต้อง
-คุณสามารถแทรกกล่องข้อความสำหรับทฤษฎีบท หรือองค์ประกอบอื่นๆ ได้อย่างอิสระด้วยการจัดรูปแบบคลาสของ Bootstrap v4
+Store any Markdown files in this directory, and that's all.
